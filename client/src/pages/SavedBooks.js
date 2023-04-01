@@ -106,7 +106,7 @@ const SavedBooks = () => {
             );
           })}
         </CardColumns>
-        {error && <div>There was an issue viewing your books</div>}
+        {error && <div>There was an issue looking at your views</div>}
       </Container>
     </>
   );

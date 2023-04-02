@@ -19,7 +19,7 @@ A full-stack web application built using MongoDB, Express, React, and Node.js (M
 ## Installation
 To run this application locally, follow these steps:
 
-1. git clone https://github.com/yourusername/mern-book-search.git
+1. git clone https://github.com/itsamish01/MernBookSearchEngine1
 
 2. Change to the project directory.
 

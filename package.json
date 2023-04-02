@@ -21,6 +21,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3"
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^7.0.3"
   }
 }

@@ -52,9 +52,13 @@ npm install
 3. Click the "Save" button to save a book to your reading list.
 4. Navigate to the "My Books" page to view and manage your personal reading list.
 
-## Screenshot 
+## Screenshot: 
+![Screenshot 2023-04-03 at 5 20 45 PM](https://user-images.githubusercontent.com/114682284/229639804-8751e27a-9585-49c6-9089-225c899f9bcb.png)
+
 
 ## Deployed Link:
+
+https://merngooglebooksearch.herokuapp.com/
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
